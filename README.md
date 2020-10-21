@@ -6,7 +6,9 @@ I'm totally bad at python so be indulgent if you see any horrors in the code. xd
 
 # Instructions
 
-BEFORE START THE PROGRAM : Change the ingame.png image to your own banner in loading screen (check example.png in Tutorial folder)
+BEFORE START THE PROGRAM : 
+
+Change the ingame.png image to your own banner in loading screen (check example.png in Tutorial folder)
 
 It's best to take a banner with a simple pattern so that the script doesn't crash or get confused.
 

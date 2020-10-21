@@ -10,9 +10,9 @@ BEFORE START THE PROGRAM :
 
 Change the ingame.png image to your own banner in loading screen (check example.png in Tutorial folder)
 
-It's best to take a banner with a simple pattern so that the script doesn't crash or get confused. (Beta banner is highly recommended, 
+It's best to take a banner with a simple pattern so that the script doesn't crash or get confused.
 
-sorry for non-beta player :D )
+(Beta banner is highly recommended, sorry for non-beta player :D )
 
 1.- place the game in English
 

@@ -14,9 +14,7 @@ It's best to take a banner with a simple pattern so that the script doesn't cras
 
 (Beta banner is highly recommended, sorry for non-beta player :D )
 
-1.- place the game in English
-
-2.- Install python (3.8.5 32 bits)
+1.- Install python (3.8.5 32 bits)
 
 2.- Open .bat with admin for install libs.
 

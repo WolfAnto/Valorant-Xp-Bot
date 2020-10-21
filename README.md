@@ -55,4 +55,4 @@ WolfAnto#5183
 
 # Previews
 
-![alt text](https://imgur.com/WweXX3u)
+![1](https://user-images.githubusercontent.com/73076854/96799030-7af07080-1402-11eb-82db-70ce684b0dec.png)

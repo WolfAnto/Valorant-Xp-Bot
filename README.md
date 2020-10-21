@@ -31,7 +31,7 @@ status in beta have errors (1080 Work fine, other resolution idk)
 
 If you don't know how to use the program, check README.md in the folder
 
-Change theingame.png in 1080 folder | check README.md
+Change the ingame.png in 1080 folder | check README.md
 
 the program was created by jordan123pal and re-edited by WolfAnto for Valorant
 

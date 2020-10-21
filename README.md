@@ -52,3 +52,7 @@ add me in discord if you need help
 If you encounter any difficulties during the installation or other contact me
 
 WolfAnto#5183
+
+# Previews
+
+![alt text](https://imgur.com/WweXX3u)

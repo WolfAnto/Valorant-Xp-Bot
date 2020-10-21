@@ -22,7 +22,9 @@ BEFORE START THE PROGRAM : Change the ingame.png image to your own banner in loa
 Update 22/10/20
 
 Rewrite code
+
 status in beta have errors (1080 Work fine, other resolution idk)
+
 22/10/2020
 
 # Errors talk with me

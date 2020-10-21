@@ -29,4 +29,5 @@ status in beta have errors (1080 Work fine, other resolution idk)
 
 # Errors talk with me
 add me in discord if you need help
+If you encounter any difficulties during the installation or other contact me
 WolfAnto#5183

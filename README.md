@@ -27,6 +27,25 @@ status in beta have errors (1080 Work fine, other resolution idk)
 
 22/10/2020
 
+# More info about the program
+
+If you don't know how to use the program, check README.md in the folder
+
+Change theingame.png in 1080 folder | check README.md
+
+the program was created by jordan123pal and re-edited by WolfAnto for Valorant
+
+Low chance to get ban due to the Deatchmatch gamemode. Only by player reports
+
+The exp gain is quite slow due to the very long Deathmatch queue. ~900xp/15min
+
+In 1 hour you can get 3600 exp | 8 hours: 28 800exp | 24 hours: 86 400 exp
+
+These estimates are the minimum you can earn
+
+the code is not optimised so may cause fps drops and crash after several hours
+
+
 # Errors talk with me
 add me in discord if you need help
 

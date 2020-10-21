@@ -2,7 +2,7 @@
 
 # Instructions
 
-BEFORE START THE PROGRAM : Change the ingame.png image to your own banner in loading screen (check example.png)
+BEFORE START THE PROGRAM : Change the ingame.png image to your own banner in loading screen (check example.png in Tutorial folder)
 
 1.- place the game in English
 

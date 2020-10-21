@@ -1,5 +1,9 @@
 # Valorant Xp Bot
 
+Warning!
+
+I'm totally bad at python so be indulgent if you see any horrors in the code. xd
+
 # Instructions
 
 BEFORE START THE PROGRAM : Change the ingame.png image to your own banner in loading screen (check example.png in Tutorial folder)

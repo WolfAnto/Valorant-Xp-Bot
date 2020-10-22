@@ -1,5 +1,7 @@
 import pyautogui
 import time
+from random import randint
+from time import sleep
 from colorama import init
 from colorama import Fore, Back, Style
 
@@ -49,9 +51,29 @@ class bot:
                 time.sleep(2)
                 self.result()
             else:
-            	time.sleep(5)
-            	pyautogui.press('space')
-            	self.endofthegame()
+            	self.antiafk()
+
+    def antiafk(self):
+        time.sleep(5)
+        pyautogui.keyDown('w',)
+        sleep(randint(2, 6)/10)
+        pyautogui.keyUp('w')
+        pyautogui.keyDown('d')
+        pyautogui.click()
+        sleep(randint(1, 3)/10)
+        pyautogui.click()
+        sleep(randint(2, 4)/10)
+        pyautogui.keyUp('d')
+        pyautogui.keyDown('s')
+        sleep(randint(2, 5)/10)
+        pyautogui.keyUp('s')
+        pyautogui.keyDown('a')
+        sleep(randint(4, 6)/10)
+        pyautogui.keyUp('a')
+        pyautogui.keyDown('w',)
+        sleep(randint(2, 4)/10)
+        pyautogui.keyUp('w')
+        self.endofthegame()
 
     def result(self):
         print(Fore.YELLOW + "-----> Waiting XP results detection")

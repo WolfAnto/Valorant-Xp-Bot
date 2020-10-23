@@ -10,7 +10,7 @@ class bot:
         self.exp = 0
 
     def lobby(self):
-        time.sleep(5)
+        time.sleep(10)
         print(Fore.YELLOW + "-----> Waiting lobby detection")
         print(Style.RESET_ALL)
         while True:
@@ -78,6 +78,7 @@ class bot:
     def result(self):
         print(Fore.YELLOW + "-----> Waiting XP results detection")
         print(Style.RESET_ALL)
+        time.sleep(10)
         while True:
             results = pyautogui.locateOnScreen("1080/confirm.png")
             results2 = pyautogui.locateOnScreen("1080/confirm.png", confidence=0.6)

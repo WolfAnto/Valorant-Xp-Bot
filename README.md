@@ -33,7 +33,11 @@ Rewrite code
 
 status in beta have errors (1080 Work fine, other resolution idk)
 
-22/10/2020
+23/10/2020
+
+Adding random movement
+
+Adding more delay for some detection because sometime he doesn't detected
 
 # More info about the program
 

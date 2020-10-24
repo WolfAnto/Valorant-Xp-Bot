@@ -32,6 +32,8 @@ Update 24/10/2020
 
 Adding 720 resolution
 
+Adding advenced random movements
+
 Update 23/10/2020
 
 Adding random movement

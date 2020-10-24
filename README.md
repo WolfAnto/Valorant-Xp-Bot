@@ -27,17 +27,22 @@ It's best to take a banner with a simple pattern so that the script doesn't cras
 6.- only work for 1920x1080 resolution
 
 # Changelogs
+
+Update 24/10/2020
+
+Adding 720 resolution
+
+Update 23/10/2020
+
+Adding random movement
+
+Adding more delay for some detection because sometime he doesn't detected
+
 Update 22/10/20
 
 Rewrite code
 
 status in beta have errors (1080 Work fine, other resolution idk)
-
-23/10/2020
-
-Adding random movement
-
-Adding more delay for some detection because sometime he doesn't detected
 
 # More info about the program
 

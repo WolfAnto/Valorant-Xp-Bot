@@ -44,6 +44,10 @@ Manipulated to work with Valorant by WolfAnto and Fums.
 
 Fums further optimized, cleaned the code and fixed some bugs .
 
+https://github.com/MrFums/
+
+https://github.com/JORDANIDK/
+
 
 # Previews
 

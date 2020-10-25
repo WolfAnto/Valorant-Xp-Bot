@@ -3,6 +3,12 @@ Code may be slightly unoptimized. If you think you can improve it, please make a
 
 ONLY WORK FOR WINDOWS 10
 
+#ALL IN ONE INSTALLER
+
+Run this batch file as Administator to install the program. Works on Windows 10 with Python 3.8 +
+
+https://github.com/MrFums/ValorantBot/releases/download/AIO/ValorantXPBot_INSTALLER.bat
+
 # Instructions
 
 1- Install Python (3.9.0 is what I wrote the code in, will probably work with 3.5.x +)

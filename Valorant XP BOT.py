@@ -42,7 +42,7 @@ class bot:
                 self.endofthegame()
 
     def endofthegame(self):
-        time.sleep(5)
+        time.sleep(10)
         while True:
             compteur = pyautogui.locateOnScreen("1080/confirm2.png")
             compteur2 = pyautogui.locateOnScreen("1080/confirm2.png", confidence=0.6)
@@ -56,36 +56,24 @@ class bot:
 
     def antiafk(self):
         time.sleep(5)
-        n = randint(20, 35)
-        a = 0
-        while a <= n:
-            a += 1
-            n2 = randint(1,6)
-            if n2 == 1:
-                pyautogui.keyDown('w')
-                sleep(randint(2, 6)/10)
-            if n2 == 2:
-                pyautogui.keyUp('w')
-                pyautogui.keyDown('d')
-                pyautogui.click()
-            if n2 == 3:
-                pyautogui.keyDown('a')
-                sleep(randint(1, 3)/10)
-                pyautogui.keyDown('a')
-                pyautogui.click()
-                sleep(randint(2, 4)/10)
-            if n2 == 4:
-                pyautogui.keyUp('d')
-                pyautogui.keyDown('s')
-                sleep(randint(2, 5)/10)
-            if n2 == 5:
-                pyautogui.keyUp('s')
-                sleep(randint(4, 6)/10)
-            if n2 == 6:
-                pyautogui.keyDown('w')
-                sleep(randint(2, 4)/10)
-                pyautogui.keyUp('w')
-
+        pyautogui.keyDown('w',)
+        sleep(randint(2, 6)/10)
+        pyautogui.keyUp('w')
+        pyautogui.keyDown('d')
+        pyautogui.click()
+        sleep(randint(1, 3)/10)
+        pyautogui.click()
+        sleep(randint(2, 4)/10)
+        pyautogui.keyUp('d')
+        pyautogui.keyDown('s')
+        sleep(randint(2, 5)/10)
+        pyautogui.keyUp('s')
+        pyautogui.keyDown('a')
+        sleep(randint(4, 6)/10)
+        pyautogui.keyUp('a')
+        pyautogui.keyDown('w',)
+        sleep(randint(2, 4)/10)
+        pyautogui.keyUp('w')
         self.endofthegame()
 
     def result(self):

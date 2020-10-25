@@ -7,7 +7,7 @@ ONLY WORK FOR WINDOWS 10
 
 Run this batch file as Administator to install the program. Works on Windows 10 with Python 3.8 +
 
-<a href="https://github.com/MrFums/ValorantBot/releases/download/AIO/ValorantXPBot_INSTALLER.bat">DOWNLOAD</a>
+<a href="https://github.com/WolfAnto/Valorant-Xp-Bot/releases/download/3/ValorantXPBot_INSTALLER.bat">DOWNLOAD</a>
 
 # Instructions
 

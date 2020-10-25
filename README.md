@@ -3,7 +3,7 @@ Code may be slightly unoptimized. If you think you can improve it, please make a
 
 ONLY WORK FOR WINDOWS 10
 
-#ALL IN ONE INSTALLER
+# ALL IN ONE INSTALLER
 
 Run this batch file as Administator to install the program. Works on Windows 10 with Python 3.8 +
 

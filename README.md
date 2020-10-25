@@ -21,7 +21,7 @@ Code may be slightly unoptimized. If you think you can improve it, please make a
 
 Add my Discord if you want help or face any issues.
 
-Fums#0888
+Fums#0888 or WolfAnto#5183
 
 
 # Credits

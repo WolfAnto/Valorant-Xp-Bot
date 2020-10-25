@@ -1,6 +1,7 @@
 # Valorant XP Farming Bot
 Code may be slightly unoptimized. If you think you can improve it, please make a pull request.
 
+ONLY WORK FOR WINDOWS 10
 
 # Instructions
 

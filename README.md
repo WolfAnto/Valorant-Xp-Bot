@@ -6,6 +6,7 @@ ONLY WORK FOR WINDOWS 10
 # Instructions
 
 1- Install Python (3.9.0 is what I wrote the code in, will probably work with 3.5.x +)
+   If doesn't work with Python 3.9.0 try with Python 3.8.5
 
 2- Open _PackageInstaller.bat as admin to install dependencies using pip.
 

@@ -9,6 +9,8 @@ Run this batch file as Administator to install the program. Works on Windows 10 
 
 <a href="https://github.com/WolfAnto/Valorant-Xp-Bot/releases/download/3/ValorantXPBot_INSTALLER.bat">DOWNLOAD</a>
 
+Please note that you MUST change the Valorant shortcut in the generated folder in your root drive. Usually C:\ValorantXPBot\ An easy way to do this is to simply copy your own shortcut from your desktop over into the folder. This is to make it so the program can run Valorant again if it crashes.
+
 # Instructions
 
 1- Install Python (3.9.0 is what I wrote the code in, will probably work with 3.5.x +)

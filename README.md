@@ -12,10 +12,8 @@ Install Python 3.9.0 [here](https://www.python.org/ftp/python/3.8.0/python-3.9.0
 
 For the program to function properly, please copy and paste your OWN Valorant shortcut for the program to function properly. This makes it so if Valorant encounters any issues when AFK, it can restart the game. You should not need to edit any code.
 
-You also need a functioning brain, please have one of these. Don't be like this guy:
+You also need a functioning brain.
 
-
-![retard](https://cdn.discordapp.com/attachments/721512592786587670/770483689632825384/unknown.png "A retard")
 
 # Instructions
 

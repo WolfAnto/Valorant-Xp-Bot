@@ -14,17 +14,16 @@ For the program to function properly, please copy and paste your OWN Valorant sh
 # Instructions
 
 1- Install Python (3.9.0 is what I wrote the code in, will probably work with 3.5.x +)
-   If doesn't work with Python 3.9.0 try with Python 3.8.5
 
 2- Open _PackageInstaller.bat as admin to install dependencies using pip.
 
-3- Open Valorant, go to PLAY and then click on DEATHMATCH.
+3- Close Valorant and then reopen it and leave it on the home menu, do not click anything else.
 
-4- Open bot and then press 1.
+4- Open bot and navigate the menu (advised to read the information).
 
-5- Choose which Player Card you want to use, change to that one in game and then select it in the bot console.
+5- Choose which Player Card you want to use, change to that one in game and then select it in the bot console. You can either use the default Valorant Player Card or the Beta Pioneer Card (recommended)
 
-6- Follow instructions that will appear on screen if you haven't already.
+6- Follow the instructions that will appear on screen if you haven't already.
 
 
 # Help

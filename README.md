@@ -3,13 +3,13 @@ Code may be slightly unoptimized. If you think you can improve it, please make a
 
 ONLY WORK FOR WINDOWS 10
 
-# ALL IN ONE INSTALLER
+# REQUIREMENTS
 
-Run this batch file as Administator to install the program. Works on Windows 10 with Python 3.8 +
+Run the batch file as Administator to install the dependencies. Works on 64bit Windows 10 with Python 3.8 +
 
-<a href="https://github.com/WolfAnto/Valorant-Xp-Bot/releases/download/3/ValorantXPBot_INSTALLER.bat">DOWNLOAD</a>
+Install Python 3.8.0 here Install Python 3.9.0 here
 
-Please note that you MUST change the Valorant shortcut in the generated folder in your root drive. Usually C:\ValorantXPBot\ An easy way to do this is to simply copy your own shortcut from your desktop over into the folder. This is to make it so the program can run Valorant again if it crashes.
+For the program to function properly, please copy and paste your OWN Valorant shortcut for the program to function properly. This makes it so if Valorant encounters any issues when AFK, it can restart the game. You should not need to edit any code.
 
 # Instructions
 

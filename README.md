@@ -7,7 +7,7 @@ ONLY WORK FOR WINDOWS 10
 
 Run the batch file as Administator to install the dependencies. Works on 64bit Windows 10 with Python 3.8 +
 
-Install Python 3.8.0 here Install Python 3.9.0 here
+Install Python 3.8.0 or Install Python 3.9.0
 
 For the program to function properly, please copy and paste your OWN Valorant shortcut for the program to function properly. This makes it so if Valorant encounters any issues when AFK, it can restart the game. You should not need to edit any code.
 
